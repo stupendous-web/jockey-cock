@@ -9,7 +9,7 @@
 html {
   /* 1 */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 18px;
+  font-size: 16px;
   font-weight: normal;
   line-height: 1.5;
   /* 2 */
@@ -268,7 +268,7 @@ h4,
 }
 h5,
 .uk-h5 {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.4;
 }
 h6,
@@ -901,7 +901,7 @@ a.uk-link-reset,
   text-align: left;
   vertical-align: bottom;
   /* 1 */
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   color: #ccc;
 }
@@ -1855,7 +1855,7 @@ select.uk-form-width-xsmall {
   box-sizing: border-box;
   padding: 0 30px;
   vertical-align: middle;
-  font-size: 18px;
+  font-size: 16px;
   /* 8 */
   line-height: 40px;
   /* 9 */
@@ -4720,7 +4720,7 @@ ul.uk-nav-sub {
 /* Default modifier
  ========================================================================== */
 .uk-nav-default {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 /*
@@ -4759,7 +4759,7 @@ ul.uk-nav-sub {
  * Sublists
  */
 .uk-nav-default .uk-nav-sub {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 .uk-nav-default .uk-nav-sub a {
@@ -4828,7 +4828,7 @@ ul.uk-nav-sub {
 /* Secondary modifier
  ========================================================================== */
 .uk-nav-secondary {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 /*
@@ -5038,7 +5038,7 @@ ul.uk-nav-sub {
   box-sizing: border-box;
   min-height: 80px;
   /* 4 */
-  font-size: 18px;
+  font-size: 16px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* 5 */
   text-decoration: none;
@@ -6893,7 +6893,7 @@ ul.uk-nav-sub {
   line-height: 1.5;
 }
 .uk-text-default {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 /* Weight modifier
