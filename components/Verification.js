@@ -23,13 +23,13 @@ export default function Verification() {
               }
               type={"button"}
             >
-              I agree
+              Enter
             </button>
             <a
               href={"https://stupendousweb.com"}
               className={"uk-button uk-button-secondary"}
             >
-              Get me out of here!!!
+              Leave
             </a>
           </p>
         </div>

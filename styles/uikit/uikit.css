@@ -3413,7 +3413,7 @@ select.uk-form-width-xsmall {
   /* 4 */
   padding: 15px 15px;
   /* 5 */
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.95);
   /* 6 */
   opacity: 0;
   transition: opacity 0.15s linear;
