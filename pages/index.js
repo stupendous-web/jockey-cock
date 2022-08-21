@@ -26,16 +26,6 @@ export default function Home() {
             Creating a FREE community of sex positive gay men through media,
             listings, and social connections
           </p>
-          <a
-            className={"uk-button uk-button-primary uk-button-large"}
-            onClick={() =>
-              alert(
-                "Early registration is coming soon! In the meantime, give me feedback!"
-              )
-            }
-          >
-            Start your Profile
-          </a>
           <p>
             Create a profile, share sexy media, check out gay listings, hookup,
             and make friends.

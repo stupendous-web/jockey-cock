@@ -3,13 +3,15 @@ export default function Footer() {
     <>
       <div className={"uk-section uk-section-xsmall"}>
         <div className={"uk-container uk-container-xsmall"}>
-          &copy; Copyright{" "}
-          <a
-            href={"https://stupendousweb.com"}
-            title={"Web App Development Services"}
-          >
-            Stupendous Web
-          </a>
+          <p className={"uk-text-small"}>
+            &copy; Copyright 2022{" "}
+            <a
+              href={"https://stupendousweb.com"}
+              title={"Web App Development Services"}
+            >
+              Stupendous Web
+            </a>
+          </p>
         </div>
       </div>
     </>
