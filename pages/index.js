@@ -10,6 +10,19 @@ export default function Home() {
           Jockey Cock | Creating a FREE community of sex positive gay men
           through media, listings, and social connections
         </title>
+        <meta name={"twitter:card"} content="summary_large_image" />
+        <meta name={"twitter:site"} content="@stupendousweb" />
+        <meta name={"twitter:title"} content={"Jockey Cock"} />
+        <meta
+          name={"twitter:description"}
+          content={
+            "Creating a FREE community of sex positive gay men through media, listings, and social connections"
+          }
+        />
+        <meta
+          name={"twitter:image"}
+          content={"https://jockeycock.com/images/splash.jpg"}
+        />
       </Head>
       <Verification />
       <div
